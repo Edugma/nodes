@@ -1,0 +1,11 @@
+[
+    {
+        "id": "0",
+        "name": "Московский политехнический университет",
+        "other_names": [
+            "Московский политех",
+            "Мосполитех"
+        ],
+        "contract": "https://raw.githubusercontent.com/mospolyhelper/Edugma/main/contract.json"
+    }
+]
