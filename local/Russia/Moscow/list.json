@@ -6,6 +6,7 @@
             "Московский политех",
             "Мосполитех"
         ],
+        "image": "https://mospolytech.ru/local/templates/main/dist/img/logos/mospolytech-logo-white.png",
         "contract": "https://raw.githubusercontent.com/mospolyhelper/Edugma/main/contract.json"
     }
 ]
